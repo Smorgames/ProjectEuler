@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenFibonacciNumbers", "Eve
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Largest prime factor", "Largest prime factor\Largest prime factor.csproj", "{C7DC53CB-3505-4596-9674-B87785C9EA76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest palindrome product", "Largest palindrome product\Largest palindrome product.csproj", "{EEFDF786-6276-4DAD-B551-88749809A168}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Largest palindrome product", "Largest palindrome product\Largest palindrome product.csproj", "{EEFDF786-6276-4DAD-B551-88749809A168}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smallest multiple", "Smallest multiple\Smallest multiple.csproj", "{E7092B05-60F5-430B-AB19-E6E10B3C14E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smallest multiple", "Smallest multiple\Smallest multiple.csproj", "{E7092B05-60F5-430B-AB19-E6E10B3C14E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum square difference", "Sum square difference\Sum square difference.csproj", "{644800D7-586C-4FED-958E-84851D8173CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10001st prime", "10001st prime\10001st prime.csproj", "{D4AC645A-E677-41E2-9AC4-01A87F75FA0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{E7092B05-60F5-430B-AB19-E6E10B3C14E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7092B05-60F5-430B-AB19-E6E10B3C14E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7092B05-60F5-430B-AB19-E6E10B3C14E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{644800D7-586C-4FED-958E-84851D8173CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644800D7-586C-4FED-958E-84851D8173CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644800D7-586C-4FED-958E-84851D8173CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644800D7-586C-4FED-958E-84851D8173CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4AC645A-E677-41E2-9AC4-01A87F75FA0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4AC645A-E677-41E2-9AC4-01A87F75FA0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4AC645A-E677-41E2-9AC4-01A87F75FA0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4AC645A-E677-41E2-9AC4-01A87F75FA0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

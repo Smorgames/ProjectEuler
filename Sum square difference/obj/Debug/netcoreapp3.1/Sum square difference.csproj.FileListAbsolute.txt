@@ -1,0 +1,13 @@
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Sum square difference\bin\Debug\netcoreapp3.1\Sum square difference.exe
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Sum square difference\bin\Debug\netcoreapp3.1\Sum square difference.deps.json
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Sum square difference\bin\Debug\netcoreapp3.1\Sum square difference.runtimeconfig.json
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Sum square difference\bin\Debug\netcoreapp3.1\Sum square difference.runtimeconfig.dev.json
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Sum square difference\bin\Debug\netcoreapp3.1\Sum square difference.dll
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Sum square difference\bin\Debug\netcoreapp3.1\Sum square difference.pdb
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Sum square difference\obj\Debug\netcoreapp3.1\Sum square difference.AssemblyInfoInputs.cache
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Sum square difference\obj\Debug\netcoreapp3.1\Sum square difference.AssemblyInfo.cs
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Sum square difference\obj\Debug\netcoreapp3.1\Sum square difference.csproj.CoreCompileInputs.cache
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Sum square difference\obj\Debug\netcoreapp3.1\Sum square difference.dll
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Sum square difference\obj\Debug\netcoreapp3.1\Sum square difference.pdb
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Sum square difference\obj\Debug\netcoreapp3.1\Sum square difference.genruntimeconfig.cache
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Sum square difference\obj\Debug\netcoreapp3.1\Sum square difference.csprojAssemblyReference.cache

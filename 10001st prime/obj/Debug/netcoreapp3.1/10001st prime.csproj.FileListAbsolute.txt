@@ -1,0 +1,12 @@
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\10001st prime\bin\Debug\netcoreapp3.1\10001st prime.exe
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\10001st prime\bin\Debug\netcoreapp3.1\10001st prime.deps.json
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\10001st prime\bin\Debug\netcoreapp3.1\10001st prime.runtimeconfig.json
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\10001st prime\bin\Debug\netcoreapp3.1\10001st prime.runtimeconfig.dev.json
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\10001st prime\bin\Debug\netcoreapp3.1\10001st prime.dll
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\10001st prime\bin\Debug\netcoreapp3.1\10001st prime.pdb
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\10001st prime\obj\Debug\netcoreapp3.1\10001st prime.AssemblyInfoInputs.cache
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\10001st prime\obj\Debug\netcoreapp3.1\10001st prime.AssemblyInfo.cs
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\10001st prime\obj\Debug\netcoreapp3.1\10001st prime.csproj.CoreCompileInputs.cache
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\10001st prime\obj\Debug\netcoreapp3.1\10001st prime.dll
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\10001st prime\obj\Debug\netcoreapp3.1\10001st prime.pdb
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\10001st prime\obj\Debug\netcoreapp3.1\10001st prime.genruntimeconfig.cache

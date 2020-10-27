@@ -11,3 +11,16 @@ C:\Users\IZaveryukha\source\repos\ProjectEuler\Largest prime factor\obj\Debug\ne
 C:\Users\IZaveryukha\source\repos\ProjectEuler\Largest prime factor\obj\Debug\netcoreapp3.1\Largest prime factor.dll
 C:\Users\IZaveryukha\source\repos\ProjectEuler\Largest prime factor\obj\Debug\netcoreapp3.1\Largest prime factor.pdb
 C:\Users\IZaveryukha\source\repos\ProjectEuler\Largest prime factor\obj\Debug\netcoreapp3.1\Largest prime factor.genruntimeconfig.cache
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest prime factor\bin\Debug\netcoreapp3.1\Largest prime factor.exe
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest prime factor\bin\Debug\netcoreapp3.1\Largest prime factor.deps.json
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest prime factor\bin\Debug\netcoreapp3.1\Largest prime factor.runtimeconfig.json
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest prime factor\bin\Debug\netcoreapp3.1\Largest prime factor.runtimeconfig.dev.json
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest prime factor\bin\Debug\netcoreapp3.1\Largest prime factor.dll
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest prime factor\bin\Debug\netcoreapp3.1\Largest prime factor.pdb
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest prime factor\obj\Debug\netcoreapp3.1\Largest prime factor.csprojAssemblyReference.cache
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest prime factor\obj\Debug\netcoreapp3.1\Largest prime factor.AssemblyInfoInputs.cache
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest prime factor\obj\Debug\netcoreapp3.1\Largest prime factor.AssemblyInfo.cs
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest prime factor\obj\Debug\netcoreapp3.1\Largest prime factor.csproj.CoreCompileInputs.cache
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest prime factor\obj\Debug\netcoreapp3.1\Largest prime factor.dll
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest prime factor\obj\Debug\netcoreapp3.1\Largest prime factor.pdb
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest prime factor\obj\Debug\netcoreapp3.1\Largest prime factor.genruntimeconfig.cache
