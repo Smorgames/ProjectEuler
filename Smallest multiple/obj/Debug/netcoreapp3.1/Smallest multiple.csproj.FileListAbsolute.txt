@@ -1,0 +1,13 @@
+C:\Users\IZaveryukha\source\repos\ProjectEuler\Smallest multiple\bin\Debug\netcoreapp3.1\Smallest multiple.exe
+C:\Users\IZaveryukha\source\repos\ProjectEuler\Smallest multiple\bin\Debug\netcoreapp3.1\Smallest multiple.deps.json
+C:\Users\IZaveryukha\source\repos\ProjectEuler\Smallest multiple\bin\Debug\netcoreapp3.1\Smallest multiple.runtimeconfig.json
+C:\Users\IZaveryukha\source\repos\ProjectEuler\Smallest multiple\bin\Debug\netcoreapp3.1\Smallest multiple.runtimeconfig.dev.json
+C:\Users\IZaveryukha\source\repos\ProjectEuler\Smallest multiple\bin\Debug\netcoreapp3.1\Smallest multiple.dll
+C:\Users\IZaveryukha\source\repos\ProjectEuler\Smallest multiple\bin\Debug\netcoreapp3.1\Smallest multiple.pdb
+C:\Users\IZaveryukha\source\repos\ProjectEuler\Smallest multiple\obj\Debug\netcoreapp3.1\Smallest multiple.csprojAssemblyReference.cache
+C:\Users\IZaveryukha\source\repos\ProjectEuler\Smallest multiple\obj\Debug\netcoreapp3.1\Smallest multiple.AssemblyInfoInputs.cache
+C:\Users\IZaveryukha\source\repos\ProjectEuler\Smallest multiple\obj\Debug\netcoreapp3.1\Smallest multiple.AssemblyInfo.cs
+C:\Users\IZaveryukha\source\repos\ProjectEuler\Smallest multiple\obj\Debug\netcoreapp3.1\Smallest multiple.csproj.CoreCompileInputs.cache
+C:\Users\IZaveryukha\source\repos\ProjectEuler\Smallest multiple\obj\Debug\netcoreapp3.1\Smallest multiple.dll
+C:\Users\IZaveryukha\source\repos\ProjectEuler\Smallest multiple\obj\Debug\netcoreapp3.1\Smallest multiple.pdb
+C:\Users\IZaveryukha\source\repos\ProjectEuler\Smallest multiple\obj\Debug\netcoreapp3.1\Smallest multiple.genruntimeconfig.cache
