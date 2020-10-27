@@ -1,0 +1,12 @@
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest product in a series\bin\Debug\netcoreapp3.1\Largest product in a series.exe
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest product in a series\bin\Debug\netcoreapp3.1\Largest product in a series.deps.json
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest product in a series\bin\Debug\netcoreapp3.1\Largest product in a series.runtimeconfig.json
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest product in a series\bin\Debug\netcoreapp3.1\Largest product in a series.runtimeconfig.dev.json
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest product in a series\bin\Debug\netcoreapp3.1\Largest product in a series.dll
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest product in a series\bin\Debug\netcoreapp3.1\Largest product in a series.pdb
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest product in a series\obj\Debug\netcoreapp3.1\Largest product in a series.AssemblyInfoInputs.cache
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest product in a series\obj\Debug\netcoreapp3.1\Largest product in a series.AssemblyInfo.cs
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest product in a series\obj\Debug\netcoreapp3.1\Largest product in a series.csproj.CoreCompileInputs.cache
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest product in a series\obj\Debug\netcoreapp3.1\Largest product in a series.dll
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest product in a series\obj\Debug\netcoreapp3.1\Largest product in a series.pdb
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest product in a series\obj\Debug\netcoreapp3.1\Largest product in a series.genruntimeconfig.cache
