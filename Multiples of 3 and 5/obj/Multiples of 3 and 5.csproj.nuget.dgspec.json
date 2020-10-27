@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IZaveryukha\\source\\repos\\ProjectEuler\\Multiples of 3 and 5\\Multiples of 3 and 5.csproj": {}
+    "C:\\Users\\IZaveryukha\\Documents\\GitHub\\ProjectEuler\\Multiples of 3 and 5\\Multiples of 3 and 5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IZaveryukha\\source\\repos\\ProjectEuler\\Multiples of 3 and 5\\Multiples of 3 and 5.csproj": {
+    "C:\\Users\\IZaveryukha\\Documents\\GitHub\\ProjectEuler\\Multiples of 3 and 5\\Multiples of 3 and 5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IZaveryukha\\source\\repos\\ProjectEuler\\Multiples of 3 and 5\\Multiples of 3 and 5.csproj",
+        "projectUniqueName": "C:\\Users\\IZaveryukha\\Documents\\GitHub\\ProjectEuler\\Multiples of 3 and 5\\Multiples of 3 and 5.csproj",
         "projectName": "Multiples of 3 and 5",
-        "projectPath": "C:\\Users\\IZaveryukha\\source\\repos\\ProjectEuler\\Multiples of 3 and 5\\Multiples of 3 and 5.csproj",
+        "projectPath": "C:\\Users\\IZaveryukha\\Documents\\GitHub\\ProjectEuler\\Multiples of 3 and 5\\Multiples of 3 and 5.csproj",
         "packagesPath": "C:\\Users\\IZaveryukha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IZaveryukha\\source\\repos\\ProjectEuler\\Multiples of 3 and 5\\obj\\",
+        "outputPath": "C:\\Users\\IZaveryukha\\Documents\\GitHub\\ProjectEuler\\Multiples of 3 and 5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

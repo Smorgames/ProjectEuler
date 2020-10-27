@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IZaveryukha\\source\\repos\\ProjectEuler\\Largest prime factor\\Largest prime factor.csproj": {}
+    "C:\\Users\\IZaveryukha\\Documents\\GitHub\\ProjectEuler\\Largest prime factor\\Largest prime factor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IZaveryukha\\source\\repos\\ProjectEuler\\Largest prime factor\\Largest prime factor.csproj": {
+    "C:\\Users\\IZaveryukha\\Documents\\GitHub\\ProjectEuler\\Largest prime factor\\Largest prime factor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IZaveryukha\\source\\repos\\ProjectEuler\\Largest prime factor\\Largest prime factor.csproj",
+        "projectUniqueName": "C:\\Users\\IZaveryukha\\Documents\\GitHub\\ProjectEuler\\Largest prime factor\\Largest prime factor.csproj",
         "projectName": "Largest prime factor",
-        "projectPath": "C:\\Users\\IZaveryukha\\source\\repos\\ProjectEuler\\Largest prime factor\\Largest prime factor.csproj",
+        "projectPath": "C:\\Users\\IZaveryukha\\Documents\\GitHub\\ProjectEuler\\Largest prime factor\\Largest prime factor.csproj",
         "packagesPath": "C:\\Users\\IZaveryukha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IZaveryukha\\source\\repos\\ProjectEuler\\Largest prime factor\\obj\\",
+        "outputPath": "C:\\Users\\IZaveryukha\\Documents\\GitHub\\ProjectEuler\\Largest prime factor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

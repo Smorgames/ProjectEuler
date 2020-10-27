@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IZaveryukha\\source\\repos\\ProjectEuler\\Largest palindrome product\\Largest palindrome product.csproj",
+      "projectUniqueName": "C:\\Users\\IZaveryukha\\Documents\\GitHub\\ProjectEuler\\Largest palindrome product\\Largest palindrome product.csproj",
       "projectName": "Largest palindrome product",
-      "projectPath": "C:\\Users\\IZaveryukha\\source\\repos\\ProjectEuler\\Largest palindrome product\\Largest palindrome product.csproj",
+      "projectPath": "C:\\Users\\IZaveryukha\\Documents\\GitHub\\ProjectEuler\\Largest palindrome product\\Largest palindrome product.csproj",
       "packagesPath": "C:\\Users\\IZaveryukha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IZaveryukha\\source\\repos\\ProjectEuler\\Largest palindrome product\\obj\\",
+      "outputPath": "C:\\Users\\IZaveryukha\\Documents\\GitHub\\ProjectEuler\\Largest palindrome product\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

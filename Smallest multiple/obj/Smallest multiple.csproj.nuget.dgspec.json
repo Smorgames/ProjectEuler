@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IZaveryukha\\source\\repos\\ProjectEuler\\Smallest multiple\\Smallest multiple.csproj": {}
+    "C:\\Users\\IZaveryukha\\Documents\\GitHub\\ProjectEuler\\Smallest multiple\\Smallest multiple.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IZaveryukha\\source\\repos\\ProjectEuler\\Smallest multiple\\Smallest multiple.csproj": {
+    "C:\\Users\\IZaveryukha\\Documents\\GitHub\\ProjectEuler\\Smallest multiple\\Smallest multiple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IZaveryukha\\source\\repos\\ProjectEuler\\Smallest multiple\\Smallest multiple.csproj",
+        "projectUniqueName": "C:\\Users\\IZaveryukha\\Documents\\GitHub\\ProjectEuler\\Smallest multiple\\Smallest multiple.csproj",
         "projectName": "Smallest multiple",
-        "projectPath": "C:\\Users\\IZaveryukha\\source\\repos\\ProjectEuler\\Smallest multiple\\Smallest multiple.csproj",
+        "projectPath": "C:\\Users\\IZaveryukha\\Documents\\GitHub\\ProjectEuler\\Smallest multiple\\Smallest multiple.csproj",
         "packagesPath": "C:\\Users\\IZaveryukha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IZaveryukha\\source\\repos\\ProjectEuler\\Smallest multiple\\obj\\",
+        "outputPath": "C:\\Users\\IZaveryukha\\Documents\\GitHub\\ProjectEuler\\Smallest multiple\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections;
-using System.Collections.Generic;
 
 namespace EvenFibonacciNumbers
 {
@@ -29,16 +27,13 @@ namespace EvenFibonacciNumbers
 
                 secondFibonacciNumber = nextFibonacciNumber;
 
-                //Console.WriteLine(nextFibonacciNumber);
-
                 if (nextFibonacciNumber % 2 == 0)
                     summ += nextFibonacciNumber;
 
                 predictNextFibonacciNumber = nextFibonacciNumber + interNumber;
-                //DisplayPredictFibonacciNumber(predictNextFibonacciNumber);
             }
 
-            Console.WriteLine($"Sum of Fibonacci numbers less than {maxLimit} = {summ}");
+            Console.WriteLine($"Sum of even Fibonacci numbers less than {maxLimit} = {summ}");
         }
 
         public static void DisplayPredictFibonacciNumber(int PredictNextFibonacciNumber)

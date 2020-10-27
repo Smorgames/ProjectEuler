@@ -10,3 +10,16 @@ C:\Users\IZaveryukha\source\repos\ProjectEuler\EvenFibonacciNumbers\obj\Debug\ne
 C:\Users\IZaveryukha\source\repos\ProjectEuler\EvenFibonacciNumbers\obj\Debug\netcoreapp3.1\EvenFibonacciNumbers.dll
 C:\Users\IZaveryukha\source\repos\ProjectEuler\EvenFibonacciNumbers\obj\Debug\netcoreapp3.1\EvenFibonacciNumbers.pdb
 C:\Users\IZaveryukha\source\repos\ProjectEuler\EvenFibonacciNumbers\obj\Debug\netcoreapp3.1\EvenFibonacciNumbers.genruntimeconfig.cache
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\EvenFibonacciNumbers\bin\Debug\netcoreapp3.1\EvenFibonacciNumbers.exe
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\EvenFibonacciNumbers\bin\Debug\netcoreapp3.1\EvenFibonacciNumbers.deps.json
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\EvenFibonacciNumbers\bin\Debug\netcoreapp3.1\EvenFibonacciNumbers.runtimeconfig.json
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\EvenFibonacciNumbers\bin\Debug\netcoreapp3.1\EvenFibonacciNumbers.runtimeconfig.dev.json
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\EvenFibonacciNumbers\bin\Debug\netcoreapp3.1\EvenFibonacciNumbers.dll
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\EvenFibonacciNumbers\bin\Debug\netcoreapp3.1\EvenFibonacciNumbers.pdb
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\EvenFibonacciNumbers\obj\Debug\netcoreapp3.1\EvenFibonacciNumbers.csprojAssemblyReference.cache
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\EvenFibonacciNumbers\obj\Debug\netcoreapp3.1\EvenFibonacciNumbers.AssemblyInfoInputs.cache
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\EvenFibonacciNumbers\obj\Debug\netcoreapp3.1\EvenFibonacciNumbers.AssemblyInfo.cs
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\EvenFibonacciNumbers\obj\Debug\netcoreapp3.1\EvenFibonacciNumbers.csproj.CoreCompileInputs.cache
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\EvenFibonacciNumbers\obj\Debug\netcoreapp3.1\EvenFibonacciNumbers.dll
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\EvenFibonacciNumbers\obj\Debug\netcoreapp3.1\EvenFibonacciNumbers.pdb
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\EvenFibonacciNumbers\obj\Debug\netcoreapp3.1\EvenFibonacciNumbers.genruntimeconfig.cache
