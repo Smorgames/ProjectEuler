@@ -1,0 +1,12 @@
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Summation of primes\bin\Debug\netcoreapp3.1\Summation of primes.exe
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Summation of primes\bin\Debug\netcoreapp3.1\Summation of primes.deps.json
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Summation of primes\bin\Debug\netcoreapp3.1\Summation of primes.runtimeconfig.json
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Summation of primes\bin\Debug\netcoreapp3.1\Summation of primes.runtimeconfig.dev.json
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Summation of primes\bin\Debug\netcoreapp3.1\Summation of primes.dll
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Summation of primes\bin\Debug\netcoreapp3.1\Summation of primes.pdb
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Summation of primes\obj\Debug\netcoreapp3.1\Summation of primes.AssemblyInfoInputs.cache
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Summation of primes\obj\Debug\netcoreapp3.1\Summation of primes.AssemblyInfo.cs
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Summation of primes\obj\Debug\netcoreapp3.1\Summation of primes.csproj.CoreCompileInputs.cache
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Summation of primes\obj\Debug\netcoreapp3.1\Summation of primes.dll
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Summation of primes\obj\Debug\netcoreapp3.1\Summation of primes.pdb
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Summation of primes\obj\Debug\netcoreapp3.1\Summation of primes.genruntimeconfig.cache

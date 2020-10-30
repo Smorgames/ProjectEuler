@@ -1,0 +1,12 @@
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Special Pythagorean triplet\bin\Debug\netcoreapp3.1\Special Pythagorean triplet.exe
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Special Pythagorean triplet\bin\Debug\netcoreapp3.1\Special Pythagorean triplet.deps.json
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Special Pythagorean triplet\bin\Debug\netcoreapp3.1\Special Pythagorean triplet.runtimeconfig.json
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Special Pythagorean triplet\bin\Debug\netcoreapp3.1\Special Pythagorean triplet.runtimeconfig.dev.json
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Special Pythagorean triplet\bin\Debug\netcoreapp3.1\Special Pythagorean triplet.dll
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Special Pythagorean triplet\bin\Debug\netcoreapp3.1\Special Pythagorean triplet.pdb
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Special Pythagorean triplet\obj\Debug\netcoreapp3.1\Special Pythagorean triplet.AssemblyInfoInputs.cache
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Special Pythagorean triplet\obj\Debug\netcoreapp3.1\Special Pythagorean triplet.AssemblyInfo.cs
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Special Pythagorean triplet\obj\Debug\netcoreapp3.1\Special Pythagorean triplet.csproj.CoreCompileInputs.cache
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Special Pythagorean triplet\obj\Debug\netcoreapp3.1\Special Pythagorean triplet.dll
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Special Pythagorean triplet\obj\Debug\netcoreapp3.1\Special Pythagorean triplet.pdb
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Special Pythagorean triplet\obj\Debug\netcoreapp3.1\Special Pythagorean triplet.genruntimeconfig.cache

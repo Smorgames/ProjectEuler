@@ -10,3 +10,4 @@ C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest product in a series\o
 C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest product in a series\obj\Debug\netcoreapp3.1\Largest product in a series.dll
 C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest product in a series\obj\Debug\netcoreapp3.1\Largest product in a series.pdb
 C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest product in a series\obj\Debug\netcoreapp3.1\Largest product in a series.genruntimeconfig.cache
+C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Largest product in a series\obj\Debug\netcoreapp3.1\Largest product in a series.csprojAssemblyReference.cache
