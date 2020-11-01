@@ -10,3 +10,16 @@ C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Summation of primes\obj\Debug
 C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Summation of primes\obj\Debug\netcoreapp3.1\Summation of primes.dll
 C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Summation of primes\obj\Debug\netcoreapp3.1\Summation of primes.pdb
 C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Summation of primes\obj\Debug\netcoreapp3.1\Summation of primes.genruntimeconfig.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Summation of primes\bin\Debug\netcoreapp3.1\Summation of primes.exe
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Summation of primes\bin\Debug\netcoreapp3.1\Summation of primes.deps.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Summation of primes\bin\Debug\netcoreapp3.1\Summation of primes.runtimeconfig.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Summation of primes\bin\Debug\netcoreapp3.1\Summation of primes.runtimeconfig.dev.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Summation of primes\bin\Debug\netcoreapp3.1\Summation of primes.dll
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Summation of primes\bin\Debug\netcoreapp3.1\Summation of primes.pdb
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Summation of primes\obj\Debug\netcoreapp3.1\Summation of primes.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Summation of primes\obj\Debug\netcoreapp3.1\Summation of primes.AssemblyInfo.cs
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Summation of primes\obj\Debug\netcoreapp3.1\Summation of primes.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Summation of primes\obj\Debug\netcoreapp3.1\Summation of primes.dll
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Summation of primes\obj\Debug\netcoreapp3.1\Summation of primes.pdb
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Summation of primes\obj\Debug\netcoreapp3.1\Summation of primes.genruntimeconfig.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Summation of primes\obj\Debug\netcoreapp3.1\Summation of primes.csprojAssemblyReference.cache
