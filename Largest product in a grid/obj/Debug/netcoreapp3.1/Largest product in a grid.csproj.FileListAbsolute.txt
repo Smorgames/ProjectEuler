@@ -1,0 +1,13 @@
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest product in a grid\bin\Debug\netcoreapp3.1\Largest product in a grid.exe
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest product in a grid\bin\Debug\netcoreapp3.1\Largest product in a grid.deps.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest product in a grid\bin\Debug\netcoreapp3.1\Largest product in a grid.runtimeconfig.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest product in a grid\bin\Debug\netcoreapp3.1\Largest product in a grid.runtimeconfig.dev.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest product in a grid\bin\Debug\netcoreapp3.1\Largest product in a grid.dll
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest product in a grid\bin\Debug\netcoreapp3.1\Largest product in a grid.pdb
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest product in a grid\obj\Debug\netcoreapp3.1\Largest product in a grid.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest product in a grid\obj\Debug\netcoreapp3.1\Largest product in a grid.AssemblyInfo.cs
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest product in a grid\obj\Debug\netcoreapp3.1\Largest product in a grid.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest product in a grid\obj\Debug\netcoreapp3.1\Largest product in a grid.dll
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest product in a grid\obj\Debug\netcoreapp3.1\Largest product in a grid.pdb
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest product in a grid\obj\Debug\netcoreapp3.1\Largest product in a grid.genruntimeconfig.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest product in a grid\obj\Debug\netcoreapp3.1\Largest product in a grid.csprojAssemblyReference.cache

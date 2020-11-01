@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Largest product in a grid/1.0.0": {
+        "runtime": {
+          "Largest product in a grid.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Largest product in a grid/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

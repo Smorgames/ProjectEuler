@@ -6,7 +6,7 @@ namespace Summation_of_primes
     {
         static void Main(string[] args)
         {
-            int topLimit = 3000000;
+            int topLimit = 2000000;
 
             //ShittyAlgorithmForPrimeSum(topLimit);
 
