@@ -11,3 +11,16 @@ C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Highly divisible triangular n
 C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Highly divisible triangular number\obj\Debug\netcoreapp3.1\Highly divisible triangular number.pdb
 C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Highly divisible triangular number\obj\Debug\netcoreapp3.1\Highly divisible triangular number.genruntimeconfig.cache
 C:\Users\IZaveryukha\Documents\GitHub\ProjectEuler\Highly divisible triangular number\obj\Debug\netcoreapp3.1\Highly divisible triangular number.csprojAssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Highly divisible triangular number\bin\Debug\netcoreapp3.1\Highly divisible triangular number.exe
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Highly divisible triangular number\bin\Debug\netcoreapp3.1\Highly divisible triangular number.deps.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Highly divisible triangular number\bin\Debug\netcoreapp3.1\Highly divisible triangular number.runtimeconfig.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Highly divisible triangular number\bin\Debug\netcoreapp3.1\Highly divisible triangular number.runtimeconfig.dev.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Highly divisible triangular number\bin\Debug\netcoreapp3.1\Highly divisible triangular number.dll
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Highly divisible triangular number\bin\Debug\netcoreapp3.1\Highly divisible triangular number.pdb
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Highly divisible triangular number\obj\Debug\netcoreapp3.1\Highly divisible triangular number.csprojAssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Highly divisible triangular number\obj\Debug\netcoreapp3.1\Highly divisible triangular number.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Highly divisible triangular number\obj\Debug\netcoreapp3.1\Highly divisible triangular number.AssemblyInfo.cs
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Highly divisible triangular number\obj\Debug\netcoreapp3.1\Highly divisible triangular number.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Highly divisible triangular number\obj\Debug\netcoreapp3.1\Highly divisible triangular number.dll
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Highly divisible triangular number\obj\Debug\netcoreapp3.1\Highly divisible triangular number.pdb
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Highly divisible triangular number\obj\Debug\netcoreapp3.1\Highly divisible triangular number.genruntimeconfig.cache

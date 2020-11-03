@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace Highly_divisible_triangular_number
 {
@@ -7,55 +6,62 @@ namespace Highly_divisible_triangular_number
     {
         static void Main(string[] args)
         {
-            int triangularNumber = 1;
+            int limit = 1;
+            int amountOfDividers = 500;
 
-            while (AmountOfNumberFactors(GetTriangularNumber(triangularNumber)) < 60)
+            while (GetFactorsAmount(TriangularNumber(limit)) < amountOfDividers)
             {
-                Console.WriteLine($"{GetTriangularNumber(triangularNumber)} has {AmountOfNumberFactors(GetTriangularNumber(triangularNumber))} factors");
-                triangularNumber++;
+                DisplayNumberAndFactorsAmount(limit, TriangularNumber(limit), GetFactorsAmount(TriangularNumber(limit)));
+                limit++;
             }
 
-            Console.WriteLine(GetTriangularNumber(triangularNumber));
+            Console.ForegroundColor = ConsoleColor.Red;
+            DisplayNumberAndFactorsAmount(limit, TriangularNumber(limit), GetFactorsAmount(TriangularNumber(limit)));
+            //Console.WriteLine(TriangularNumber(7918)); //31 351 320
+            Console.ForegroundColor = ConsoleColor.White;
         }
 
-        private static int GetTriangularNumber(int triangularLimit)
+        private static int TriangularNumber(int triangularLimit)
         {
-            int triangularNumber = 0;
-
-            for (int i = 1; i <= triangularLimit; i++)
-                triangularNumber += i;
-
-            return triangularNumber;
+            return triangularLimit * (triangularLimit + 1) / 2;
         }
 
-        private static int AmountOfNumberFactors(int number)
+        private static bool IsNumberMultiples(int number, decimal divider)
         {
-            List<int> factors = new List<int>();
+            if (number / (int)divider == number / divider)
+                return true;
+            else
+                return false;
+        }
 
+        private static int GetFactorsAmount(int number)
+        {
             int factor = 1;
             int mirrorFactor = number;
+
+            int factorsAmount = 0;
 
             while (factor <= mirrorFactor)
             {
                 if (IsNumberMultiples(number, factor))
                 {
                     mirrorFactor = number / factor;
-                    factors.Add(factor);
-                    factors.Add(mirrorFactor);
+                    //Console.WriteLine($"{factor} and {mirrorFactor}");
+                    if (factor == mirrorFactor)
+                        factorsAmount++;
+                    else
+                        factorsAmount += 2;
                 }
-
                 factor++;
+                mirrorFactor = number / factor;
             }
 
-            return factors.Count - 2;
+            return factorsAmount;
         }
 
-        private static bool IsNumberMultiples(int number, int divider)
+        private static void DisplayNumberAndFactorsAmount(int index, int number, int factorsAmount)
         {
-            if (number / divider == number / (float)divider)
-                return true;
-            else
-                return false;
+            Console.WriteLine($"{index}: {number} has {factorsAmount} factors");
         }
     }
 }
