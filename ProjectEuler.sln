@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Summation of primes", "Summ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Largest product in a grid", "Largest product in a grid\Largest product in a grid.csproj", "{BF333922-E3A3-4FA7-A30C-C06826AD3A58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Highly divisible triangular number", "Highly divisible triangular number\Highly divisible triangular number.csproj", "{C931D1E5-8022-4EBA-B78E-8B42B6BA0188}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Highly divisible triangular number", "Highly divisible triangular number\Highly divisible triangular number.csproj", "{C931D1E5-8022-4EBA-B78E-8B42B6BA0188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Large sum", "Large sum\Large sum.csproj", "{89EE1ACF-1FF0-45FB-A703-5F4BEF3B7289}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{C931D1E5-8022-4EBA-B78E-8B42B6BA0188}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C931D1E5-8022-4EBA-B78E-8B42B6BA0188}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C931D1E5-8022-4EBA-B78E-8B42B6BA0188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89EE1ACF-1FF0-45FB-A703-5F4BEF3B7289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EE1ACF-1FF0-45FB-A703-5F4BEF3B7289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EE1ACF-1FF0-45FB-A703-5F4BEF3B7289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EE1ACF-1FF0-45FB-A703-5F4BEF3B7289}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
