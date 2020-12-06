@@ -6,8 +6,8 @@ namespace Large_sum
     {
         static void Main(string[] args)
         {
+            string largeString =
             #region Large string
-            string largeString = 
             "37107287533902102798797998220837590246510135740250" +
             "46376937677490009712648124896970078050417018260538" +
             "74324986199524741059474233309513058123726617309629" +
@@ -109,6 +109,97 @@ namespace Large_sum
             "20849603980134001723930671666823555245252804609722" +
             "53503534226472524250874054075591789781264330331690";
             #endregion
+
+            Console.Write("Enter number's digit amount: ");
+            int digitAmount = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("Enter amount of digits which will display: ");
+            int digitAmountNeedDisplay = Convert.ToInt32(Console.ReadLine());
+
+            int[] bitwiseSums = new int[1000];
+
+            CalculateBitwiseSums(largeString, bitwiseSums, digitAmount);
+
+            BitwiseAdding(bitwiseSums);
+
+            Console.WriteLine(First_N_Digits(bitwiseSums, digitAmountNeedDisplay));
+        }
+
+        private static string First_N_Digits(int[] number, int digitAmount)
+        {
+            bool firstNotZero = false;
+            int i = number.Length - 1;
+            int startIndex = 0;
+
+            while (firstNotZero == false)
+            {
+                if (number[i] == 0)
+                    i--;
+                else
+                {
+                    startIndex = i;
+                    firstNotZero = true;
+                }
+            }
+
+            string first_N_Digits = "";
+            int counter = 0;
+
+            while (counter != digitAmount)
+            {
+                first_N_Digits += number[startIndex].ToString();
+                startIndex--;
+                counter++;
+            }
+
+            return first_N_Digits;
+        }
+
+        private static void CalculateBitwiseSums(string stringOfNumbers, int[] bitwiseSums, int digitAmount)
+        {
+            for (int i = 0; i < stringOfNumbers.Length; i++)
+            {
+                int stringOfNumberInt = stringOfNumbers[i] - '0'; // convert char to int
+
+                int reminder = i % digitAmount;
+
+                //Console.ForegroundColor = ConsoleColor.Green;
+                //Console.WriteLine($"Number = {stringOfNumberInt}, Reminder = {reminder}, BitwiseSums index = {digitAmount - (reminder + 1)}");
+                //Console.ForegroundColor = ConsoleColor.White;
+
+                bitwiseSums[digitAmount - (reminder + 1)] += stringOfNumberInt;
+            }
+        }
+
+        private static void BitwiseAdding(int[] bitwise)
+        {
+            for (int i = 0; i < bitwise.Length; i++)
+            {
+                int digitAmount = GetDigitAmountOfNumber(bitwise[i]);
+                int bitwiseCash = bitwise[i];
+
+                bitwise[i] = 0;
+
+                for (int j = 0; j < digitAmount; j++)
+                {
+                    bitwise[i + j] += GetCertainDigitOfNumber(bitwiseCash, digitAmount - (j + 1));
+                }
+            }
+        }
+
+        private static int GetDigitAmountOfNumber(int number)
+        {
+            string stringNumber = number.ToString();
+
+            return stringNumber.Length;
+        }
+
+        private static int GetCertainDigitOfNumber(int number, int index)
+        {
+            string stringNumber = number.ToString();
+            int needDigit = stringNumber[index] - '0';
+
+            return needDigit;
         }
     }
 }

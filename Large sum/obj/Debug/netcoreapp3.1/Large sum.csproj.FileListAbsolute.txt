@@ -1,0 +1,13 @@
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Large sum\bin\Debug\netcoreapp3.1\Large sum.exe
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Large sum\bin\Debug\netcoreapp3.1\Large sum.deps.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Large sum\bin\Debug\netcoreapp3.1\Large sum.runtimeconfig.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Large sum\bin\Debug\netcoreapp3.1\Large sum.runtimeconfig.dev.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Large sum\bin\Debug\netcoreapp3.1\Large sum.dll
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Large sum\bin\Debug\netcoreapp3.1\Large sum.pdb
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Large sum\obj\Debug\netcoreapp3.1\Large sum.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Large sum\obj\Debug\netcoreapp3.1\Large sum.AssemblyInfo.cs
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Large sum\obj\Debug\netcoreapp3.1\Large sum.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Large sum\obj\Debug\netcoreapp3.1\Large sum.dll
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Large sum\obj\Debug\netcoreapp3.1\Large sum.pdb
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Large sum\obj\Debug\netcoreapp3.1\Large sum.genruntimeconfig.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Large sum\obj\Debug\netcoreapp3.1\Large sum.csprojAssemblyReference.cache
