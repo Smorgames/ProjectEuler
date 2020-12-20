@@ -10,3 +10,16 @@ C:\Users\IZaveryukha\source\repos\ProjectEuler\Largest palindrome product\obj\De
 C:\Users\IZaveryukha\source\repos\ProjectEuler\Largest palindrome product\obj\Debug\netcoreapp3.1\Largest palindrome product.dll
 C:\Users\IZaveryukha\source\repos\ProjectEuler\Largest palindrome product\obj\Debug\netcoreapp3.1\Largest palindrome product.pdb
 C:\Users\IZaveryukha\source\repos\ProjectEuler\Largest palindrome product\obj\Debug\netcoreapp3.1\Largest palindrome product.genruntimeconfig.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest palindrome product\bin\Debug\netcoreapp3.1\Largest palindrome product.exe
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest palindrome product\bin\Debug\netcoreapp3.1\Largest palindrome product.deps.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest palindrome product\bin\Debug\netcoreapp3.1\Largest palindrome product.runtimeconfig.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest palindrome product\bin\Debug\netcoreapp3.1\Largest palindrome product.runtimeconfig.dev.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest palindrome product\bin\Debug\netcoreapp3.1\Largest palindrome product.dll
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest palindrome product\bin\Debug\netcoreapp3.1\Largest palindrome product.pdb
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest palindrome product\obj\Debug\netcoreapp3.1\Largest palindrome product.csprojAssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest palindrome product\obj\Debug\netcoreapp3.1\Largest palindrome product.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest palindrome product\obj\Debug\netcoreapp3.1\Largest palindrome product.AssemblyInfo.cs
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest palindrome product\obj\Debug\netcoreapp3.1\Largest palindrome product.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest palindrome product\obj\Debug\netcoreapp3.1\Largest palindrome product.dll
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest palindrome product\obj\Debug\netcoreapp3.1\Largest palindrome product.pdb
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Largest palindrome product\obj\Debug\netcoreapp3.1\Largest palindrome product.genruntimeconfig.cache

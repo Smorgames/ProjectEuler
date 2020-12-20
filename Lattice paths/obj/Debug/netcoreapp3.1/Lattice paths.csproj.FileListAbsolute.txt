@@ -1,0 +1,12 @@
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Lattice paths\bin\Debug\netcoreapp3.1\Lattice paths.exe
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Lattice paths\bin\Debug\netcoreapp3.1\Lattice paths.deps.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Lattice paths\bin\Debug\netcoreapp3.1\Lattice paths.runtimeconfig.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Lattice paths\bin\Debug\netcoreapp3.1\Lattice paths.runtimeconfig.dev.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Lattice paths\bin\Debug\netcoreapp3.1\Lattice paths.dll
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Lattice paths\bin\Debug\netcoreapp3.1\Lattice paths.pdb
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Lattice paths\obj\Debug\netcoreapp3.1\Lattice paths.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Lattice paths\obj\Debug\netcoreapp3.1\Lattice paths.AssemblyInfo.cs
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Lattice paths\obj\Debug\netcoreapp3.1\Lattice paths.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Lattice paths\obj\Debug\netcoreapp3.1\Lattice paths.dll
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Lattice paths\obj\Debug\netcoreapp3.1\Lattice paths.pdb
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Lattice paths\obj\Debug\netcoreapp3.1\Lattice paths.genruntimeconfig.cache

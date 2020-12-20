@@ -1,0 +1,12 @@
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Power digit sum\bin\Debug\netcoreapp3.1\Power digit sum.exe
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Power digit sum\bin\Debug\netcoreapp3.1\Power digit sum.deps.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Power digit sum\bin\Debug\netcoreapp3.1\Power digit sum.runtimeconfig.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Power digit sum\bin\Debug\netcoreapp3.1\Power digit sum.runtimeconfig.dev.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Power digit sum\bin\Debug\netcoreapp3.1\Power digit sum.dll
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Power digit sum\bin\Debug\netcoreapp3.1\Power digit sum.pdb
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Power digit sum\obj\Debug\netcoreapp3.1\Power digit sum.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Power digit sum\obj\Debug\netcoreapp3.1\Power digit sum.AssemblyInfo.cs
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Power digit sum\obj\Debug\netcoreapp3.1\Power digit sum.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Power digit sum\obj\Debug\netcoreapp3.1\Power digit sum.dll
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Power digit sum\obj\Debug\netcoreapp3.1\Power digit sum.pdb
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Power digit sum\obj\Debug\netcoreapp3.1\Power digit sum.genruntimeconfig.cache

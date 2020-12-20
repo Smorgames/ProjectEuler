@@ -1,0 +1,13 @@
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Longest Collatz sequence\bin\Debug\netcoreapp3.1\Longest Collatz sequence.exe
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Longest Collatz sequence\bin\Debug\netcoreapp3.1\Longest Collatz sequence.deps.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Longest Collatz sequence\bin\Debug\netcoreapp3.1\Longest Collatz sequence.runtimeconfig.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Longest Collatz sequence\bin\Debug\netcoreapp3.1\Longest Collatz sequence.runtimeconfig.dev.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Longest Collatz sequence\bin\Debug\netcoreapp3.1\Longest Collatz sequence.dll
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Longest Collatz sequence\bin\Debug\netcoreapp3.1\Longest Collatz sequence.pdb
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Longest Collatz sequence\obj\Debug\netcoreapp3.1\Longest Collatz sequence.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Longest Collatz sequence\obj\Debug\netcoreapp3.1\Longest Collatz sequence.AssemblyInfo.cs
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Longest Collatz sequence\obj\Debug\netcoreapp3.1\Longest Collatz sequence.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Longest Collatz sequence\obj\Debug\netcoreapp3.1\Longest Collatz sequence.dll
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Longest Collatz sequence\obj\Debug\netcoreapp3.1\Longest Collatz sequence.pdb
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Longest Collatz sequence\obj\Debug\netcoreapp3.1\Longest Collatz sequence.genruntimeconfig.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Longest Collatz sequence\obj\Debug\netcoreapp3.1\Longest Collatz sequence.csprojAssemblyReference.cache

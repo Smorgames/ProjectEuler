@@ -27,7 +27,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Largest product in a grid",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Highly divisible triangular number", "Highly divisible triangular number\Highly divisible triangular number.csproj", "{C931D1E5-8022-4EBA-B78E-8B42B6BA0188}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Large sum", "Large sum\Large sum.csproj", "{89EE1ACF-1FF0-45FB-A703-5F4BEF3B7289}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Large sum", "Large sum\Large sum.csproj", "{89EE1ACF-1FF0-45FB-A703-5F4BEF3B7289}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Longest Collatz sequence", "Longest Collatz sequence\Longest Collatz sequence.csproj", "{4BB95998-17A1-4E39-827A-A87C8D2FCF90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lattice paths", "Lattice paths\Lattice paths.csproj", "{11EAFDF6-80B7-477F-9CC3-FF08C6C3F745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Power digit sum", "Power digit sum\Power digit sum.csproj", "{938B9F64-FFD8-4693-A97F-AC2A15C92779}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +93,18 @@ Global
 		{89EE1ACF-1FF0-45FB-A703-5F4BEF3B7289}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89EE1ACF-1FF0-45FB-A703-5F4BEF3B7289}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89EE1ACF-1FF0-45FB-A703-5F4BEF3B7289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BB95998-17A1-4E39-827A-A87C8D2FCF90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB95998-17A1-4E39-827A-A87C8D2FCF90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB95998-17A1-4E39-827A-A87C8D2FCF90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB95998-17A1-4E39-827A-A87C8D2FCF90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11EAFDF6-80B7-477F-9CC3-FF08C6C3F745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11EAFDF6-80B7-477F-9CC3-FF08C6C3F745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11EAFDF6-80B7-477F-9CC3-FF08C6C3F745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11EAFDF6-80B7-477F-9CC3-FF08C6C3F745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{938B9F64-FFD8-4693-A97F-AC2A15C92779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938B9F64-FFD8-4693-A97F-AC2A15C92779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938B9F64-FFD8-4693-A97F-AC2A15C92779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938B9F64-FFD8-4693-A97F-AC2A15C92779}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
