@@ -1,0 +1,12 @@
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Maximum path sum 1\bin\Debug\netcoreapp3.1\Maximum path sum 1.exe
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Maximum path sum 1\bin\Debug\netcoreapp3.1\Maximum path sum 1.deps.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Maximum path sum 1\bin\Debug\netcoreapp3.1\Maximum path sum 1.runtimeconfig.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Maximum path sum 1\bin\Debug\netcoreapp3.1\Maximum path sum 1.runtimeconfig.dev.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Maximum path sum 1\bin\Debug\netcoreapp3.1\Maximum path sum 1.dll
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Maximum path sum 1\bin\Debug\netcoreapp3.1\Maximum path sum 1.pdb
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Maximum path sum 1\obj\Debug\netcoreapp3.1\Maximum path sum 1.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Maximum path sum 1\obj\Debug\netcoreapp3.1\Maximum path sum 1.AssemblyInfo.cs
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Maximum path sum 1\obj\Debug\netcoreapp3.1\Maximum path sum 1.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Maximum path sum 1\obj\Debug\netcoreapp3.1\Maximum path sum 1.dll
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Maximum path sum 1\obj\Debug\netcoreapp3.1\Maximum path sum 1.pdb
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Maximum path sum 1\obj\Debug\netcoreapp3.1\Maximum path sum 1.genruntimeconfig.cache

@@ -10,3 +10,4 @@ C:\Users\Ivan\Documents\GitHub\ProjectEuler\Power digit sum\obj\Debug\netcoreapp
 C:\Users\Ivan\Documents\GitHub\ProjectEuler\Power digit sum\obj\Debug\netcoreapp3.1\Power digit sum.dll
 C:\Users\Ivan\Documents\GitHub\ProjectEuler\Power digit sum\obj\Debug\netcoreapp3.1\Power digit sum.pdb
 C:\Users\Ivan\Documents\GitHub\ProjectEuler\Power digit sum\obj\Debug\netcoreapp3.1\Power digit sum.genruntimeconfig.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Power digit sum\obj\Debug\netcoreapp3.1\Power digit sum.csprojAssemblyReference.cache

@@ -31,9 +31,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Large sum", "Large sum\Larg
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Longest Collatz sequence", "Longest Collatz sequence\Longest Collatz sequence.csproj", "{4BB95998-17A1-4E39-827A-A87C8D2FCF90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lattice paths", "Lattice paths\Lattice paths.csproj", "{11EAFDF6-80B7-477F-9CC3-FF08C6C3F745}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lattice paths", "Lattice paths\Lattice paths.csproj", "{11EAFDF6-80B7-477F-9CC3-FF08C6C3F745}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Power digit sum", "Power digit sum\Power digit sum.csproj", "{938B9F64-FFD8-4693-A97F-AC2A15C92779}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Power digit sum", "Power digit sum\Power digit sum.csproj", "{938B9F64-FFD8-4693-A97F-AC2A15C92779}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number letter counts", "Number letter counts\Number letter counts.csproj", "{7DFCED8F-FBE8-408C-8495-6E014AB8D411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum path sum 1", "Maximum path sum 1\Maximum path sum 1.csproj", "{BEAB17D8-A779-4F34-8939-080550773F0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{938B9F64-FFD8-4693-A97F-AC2A15C92779}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{938B9F64-FFD8-4693-A97F-AC2A15C92779}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{938B9F64-FFD8-4693-A97F-AC2A15C92779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DFCED8F-FBE8-408C-8495-6E014AB8D411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DFCED8F-FBE8-408C-8495-6E014AB8D411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DFCED8F-FBE8-408C-8495-6E014AB8D411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DFCED8F-FBE8-408C-8495-6E014AB8D411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEAB17D8-A779-4F34-8939-080550773F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEAB17D8-A779-4F34-8939-080550773F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEAB17D8-A779-4F34-8939-080550773F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEAB17D8-A779-4F34-8939-080550773F0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

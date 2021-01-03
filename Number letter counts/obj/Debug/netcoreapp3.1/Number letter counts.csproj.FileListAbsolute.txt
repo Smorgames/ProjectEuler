@@ -1,0 +1,13 @@
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Number letter counts\bin\Debug\netcoreapp3.1\Number letter counts.exe
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Number letter counts\bin\Debug\netcoreapp3.1\Number letter counts.deps.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Number letter counts\bin\Debug\netcoreapp3.1\Number letter counts.runtimeconfig.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Number letter counts\bin\Debug\netcoreapp3.1\Number letter counts.runtimeconfig.dev.json
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Number letter counts\bin\Debug\netcoreapp3.1\Number letter counts.dll
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Number letter counts\bin\Debug\netcoreapp3.1\Number letter counts.pdb
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Number letter counts\obj\Debug\netcoreapp3.1\Number letter counts.csprojAssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Number letter counts\obj\Debug\netcoreapp3.1\Number letter counts.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Number letter counts\obj\Debug\netcoreapp3.1\Number letter counts.AssemblyInfo.cs
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Number letter counts\obj\Debug\netcoreapp3.1\Number letter counts.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Number letter counts\obj\Debug\netcoreapp3.1\Number letter counts.dll
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Number letter counts\obj\Debug\netcoreapp3.1\Number letter counts.pdb
+C:\Users\Ivan\Documents\GitHub\ProjectEuler\Number letter counts\obj\Debug\netcoreapp3.1\Number letter counts.genruntimeconfig.cache
